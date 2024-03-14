@@ -451,19 +451,19 @@ a{
   }
 
   #project1{
-    background-image: url(./imagescoverparallax.png);
+    background-image: url(coverparallax.png);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(./imagesScreenshot\ 2024-03-14\ at\ 7.54.35\ PM.png);
+    background-image: url(.Screenshot\ 2024-03-14\ at\ 7.54.35\ PM.png);
   }
   #project3{
-    background-image: url(./imagesProject3.png);
+    background-image: url(Project3.png);
   }
   #project4{
     margin-left:120px;
-    background-image: url(./imagesProject4.png);
+    background-image: url(Project4.png);
   }
 
   @media (max-width:1300px) {
