@@ -314,7 +314,7 @@ a{
   .project-card{
     width:90%;
     height:550px;
-    background-image: url(./images/projects/Project2.png); 
+    background-image: url(./imagesProject2.png); 
     background-size: cover;
     /* background-repeat: no-repeat; */
     position:relative;
@@ -451,19 +451,19 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/coverparallax.png);
+    background-image: url(./imagescoverparallax.png);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(./images/projects/Screenshot\ 2024-03-14\ at\ 7.54.35\ PM.png);
+    background-image: url(./imagesScreenshot\ 2024-03-14\ at\ 7.54.35\ PM.png);
   }
   #project3{
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./imagesProject3.png);
   }
   #project4{
     margin-left:120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./imagesProject4.png);
   }
 
   @media (max-width:1300px) {
